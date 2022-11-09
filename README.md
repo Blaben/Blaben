@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blaben
-- 👀 I’m interested in Complex stuffs, things that will make me think up
-- 🌱 I’m currently learning front end we development
-- 💞️ I’m looking to collaborate on this plattform to meet and learn lots of great stuff
+- 👀 I’m interested in new stuffs, things that will make me think up
+- 🌱 I’m currently learning Front-End Web Development
+- 💞️ I’m looking to collaborate on this plattform to meet and learn lots of great stuff from great minds like yours
 - 📫 How to reach me ... @blabensolutions on all social media platforms
 
 <!---
